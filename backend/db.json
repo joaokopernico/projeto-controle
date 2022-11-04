@@ -1,0 +1,82 @@
+{
+  "cliente": [
+    { 
+      "id": 1,
+     "nome": "joao", 
+     "cpf": "13077996997",
+     "dt_nascimento": "18/03/2022",
+     "cep": "86712024",
+     "uf": "PR",
+     "logradouro": "Rua Canario Sape",
+     "bairro": "Jd Mônaco 2",
+     "cidade": "Arapongas",
+     "email": "joao@hotmail.com",
+     "dt_cadastro": "31/10/2022",
+     "dt_alteracao": ""
+    
+    },
+    { 
+      "id": 2,
+     "nome": "pedro", 
+     "cpf": "202020020",
+     "dt_nascimento": "10/20/30",
+     "cep": "86712034",
+     "uf": "PR",
+     "logradouro": "Rua Batoré",
+     "bairro": "Centro",
+     "cidade": "Arapongas",
+     "email": "pedro@hotmail.com",
+     "dt_cadastro": "31/10/2022",
+     "dt_alteracao": ""
+    
+    }
+  ],
+
+
+  "acesso": [
+    {
+       "id": 1,
+       "nome" : "Joao",
+        "id_cliente" : 1,
+        "token": "",
+        "dt acesso" : "",
+        "status" : 0
+
+         },
+    {
+       "id": 2,
+       "nome" : "Pedro",
+        "id_cliente": 2,
+        "token": "",
+        "dt acesso" : "",
+        "status" : 0
+
+         },
+    {
+       "id": 3,
+       "nome" : "Pedro",
+        "id_cliente": 2,
+        "token": "",
+        "dt acesso" : "",
+        "status" : 0
+
+         },
+    {
+       "id": 4,
+       "nome" : "Pedro",
+        "id_cliente": 2,
+        "token": "",
+        "dt acesso" : "",
+        "status" : 0
+
+         },
+    {
+       "id": 5,
+       "nome" : "Pedro",
+        "id_cliente": 2,
+        "token": "",
+        "dt acesso" : "",
+        "status" : 0
+
+         }
+  ] } 
