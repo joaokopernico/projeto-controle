@@ -91,7 +91,7 @@
       "id": 6
     },
     {
-      "nome": "Reginaldo",
+      "nome": "jacaré",
       "cpf": "",
       "dt_nascimento": "",
       "cep": "86712022",
@@ -240,7 +240,7 @@
       "status": 0,
       "id": 9,
       "dt_entrou": "10/11/2022",
-      "dt_saiu": "10-11-2022 14:11:35"
+      "dt_saiu": "2022-11-10 12:11:99"
     }
   ]
 }
